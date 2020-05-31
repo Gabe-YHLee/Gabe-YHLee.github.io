@@ -13,12 +13,12 @@ For many models, the integral in the denominator is unavailable in closed form o
 In variational inference, we posit a family of approximate conditional density functions $\mathcal{L}$, and the goal is to find the minimizer $q^*(z|x)$ of the following optimization problem
 
 $$
-\begin{aligned}
-q^*(z|x) &= \arg\min_{q(z|x)\in\mathcal{L}} \mathrm{KL}(q(z|x)||p(z|x))  \\
+\begin{align}
+q^*(z|x) &= \arg\min_{q(z|x)\in\mathcal{L}} \mathrm{KL}(q(z|x)||p(z|x)) \\
 &= \arg\min_{q(z|x)\in\mathcal{L}} \mathbb{E}[\log \frac{q(z|x)}{p(z|x)}] \\
 &= \arg\min_{q(z|x)\in\mathcal{L}} \mathbb{E}[\log q(z|x)]-\mathbb{E}[\log p(z,x)]+\log p(x) \\
 &= \arg\min_{q(z|x)\in\mathcal{L}} \mathbb{E}[\log q(z|x)]-\mathbb{E}[\log p(z,x)],
-\end{aligned}
+\end{align}
 $$
 
 where all expectations are taken with respect to $q(z|x)$. Note that the above optimization problem is equivalent to maximizing the evidence lower bound (ELBO):
