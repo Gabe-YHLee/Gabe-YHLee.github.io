@@ -6,4 +6,4 @@ layout: default
 
 _yay_
 
-[Home](./index.md)
+[<u>back</u>](./index.md)
