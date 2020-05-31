@@ -1,7 +1,3 @@
----
-usemathjax: true
----
-
 ## Variational Inference
 
 Denote by $x$ an observable variable. A latent variable model (LVM) is a joint density $p(z,x)$ with a latent variable $z$. For example, Gaussian mixture model (GMM) is a latent variable model, where $x\in\mathbb{R}^{d}$ and $z \in \{1,2,...,K\}$.
@@ -15,10 +11,10 @@ For many models, the integral in the denominator is unavailable in closed form o
 In variational inference, we posit a family of approximate conditional density functions $\mathcal{L}$, and the goal is to find the minimizer $q^*(z|x)$ of the following optimization problem
 $$
 \begin{aligned}
-q^*(z|x) &= \argmin_{q(z|x)\in\mathcal{L}} \mathrm{KL}(q(z|x)||p(z|x))  \\
-&= \argmin_{q(z|x)\in\mathcal{L}} \mathbb{E}[\log \frac{q(z|x)}{p(z|x)}] \\
-&= \argmin_{q(z|x)\in\mathcal{L}} \mathbb{E}[\log q(z|x)]-\mathbb{E}[\log p(z,x)]+\log p(x) \\
-&= \argmin_{q(z|x)\in\mathcal{L}} \mathbb{E}[\log q(z|x)]-\mathbb{E}[\log p(z,x)],
+q^*(z|x) &= \arg\min_{q(z|x)\in\mathcal{L}} \mathrm{KL}(q(z|x)||p(z|x))  \\
+&= \arg\min_{q(z|x)\in\mathcal{L}} \mathbb{E}[\log \frac{q(z|x)}{p(z|x)}] \\
+&= \arg\min_{q(z|x)\in\mathcal{L}} \mathbb{E}[\log q(z|x)]-\mathbb{E}[\log p(z,x)]+\log p(x) \\
+&= \arg\min_{q(z|x)\in\mathcal{L}} \mathbb{E}[\log q(z|x)]-\mathbb{E}[\log p(z,x)],
 \end{aligned}
 $$
 where all expectations are taken with respect to $q(z|x)$. Note that the above optimization problem is equivalent to maximizing the evidence lower bound (ELBO):
