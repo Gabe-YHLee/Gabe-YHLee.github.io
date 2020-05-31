@@ -4,16 +4,12 @@ usemathjax: true
 
 ## Variational Inference
 
-```shell
-prerequisites : 
-```
-
 Denote by $x$ an observable variable. A latent variable model (LVM) is a joint density $p(z,x)$ with a latent variable $z$. For example, Gaussian mixture model (GMM) is a latent variable model, where $x\in\mathbb{R}^{d}$ and $z \in \{1,2,...,K\}$.
 
 Given a set of observations $\{x_i\}_{i=1}^{N}$, the inference problem is to compute the conditional density 
-\[
+$$
     p(z|x)=\frac{p(z,x)}{p(x)}=\frac{p(z,x)}{\int p(z,x)d z}.
-\]
+$$
 For many models, the integral in the denominator is unavailable in closed form or requires exponential time to compute.
 
 In variational inference, we posit a family of approximate conditional density functions $\mathcal{L}$, and the goal is to find the minimizer $q^*(z|x)$ of the following optimization problem
