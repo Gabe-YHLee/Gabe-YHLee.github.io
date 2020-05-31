@@ -3,7 +3,11 @@
 A normalizing flow is a transformation of a simple probability distribution (e.g., a standard normal) into a more complex distribution by a sequence of invertible and differentialbe mappings.
 
 Let $Z\in \mathbb{R}^D$ be a random variable with a known and tractable probability density function $p_Z$. Let $g$ be an invertible function and $Y=g(Z)$. Then using the change of variables formula, one can compute the probability density function of the random variable $Y$: 
-$$p_Y(y) = p_Z(f(y))|\det Dg(f(y))|^{-1},$$ 
+
+$$
+p_Y(y) = p_Z(f(y))|\det Dg(f(y))|^{-1},
+$$ 
+
 where $f = g^{-1}$, and $Dg(z)=\frac{\partial g}{\partial z}(z)$ is the Jacobian of $g$. This new density function $p_Y$ is called a pushforward of the density $p_Z$ by function $g$ and denoted by $g_* p_Z$. 
 
 Normalizing Flows (NF) are a family of generative models with tractable distributions where both sampling and density evaluation can be efficient and exact. 
