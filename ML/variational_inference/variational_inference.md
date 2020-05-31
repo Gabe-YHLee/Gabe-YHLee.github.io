@@ -10,7 +10,7 @@ $$
 
 For many models, the integral in the denominator is unavailable in closed form or requires exponential time to compute.
 
-In variational inference, we posit a family of approximate conditional density functions $\mathcal{L}$, and the goal is to find the minimizer $q^*(z|x)$ of the following optimization problem
+In variational inference, we posit a family of approximate conditional density functions $\mathcal{L}$, and the goal is to find the minimizer $q^*(z|x)$ of the following optimization problem;
 $$
 \begin{aligned}
 q^*(z|x) &= \arg\min_{q(z|x)\in\mathcal{L}} \mathrm{KL}(q(z|x)||p(z|x)) \\
@@ -23,12 +23,12 @@ $$
 where all expectations are taken with respect to $q(z|x)$. Note that the above optimization problem is equivalent to maximizing the evidence lower bound (ELBO):
 $$
 \begin{aligned}
-    \mathrm{ELBO}(q) &= \mathbb{E}[\log p(x|z)]-\mathrm{KL}(q(z|x)||p(z))\\
-    &= \mathbb{E}[\log p(z,x)]-\mathbb{E}[\log q(z|x)].
+    \mathrm{ELBO}(q) &= \mathbb{E}[\log p(z,x)]-\mathbb{E}[\log q(z|x)]\\
+    &= \mathbb{E}[\log p(x|z)]-\mathrm{KL}(q(z|x)||p(z)).
 \end{aligned}
 $$
 
-Maximizing the ELBO has the following interpretations: The first term $\mathbb{E}[\log p(x|z)]$ encourages $q(z|x)$ to place their mass on configurations of the latent variables that explain the observed data. The second term $-\mathrm{KL}(q(z|x)||p(z))$ encourages densities close to the prior $p(z)$. 
+Maximizing the ELBO has the following interpretations: i) the first term encourages to place their mass on configurations of the latent variables that explain the observed data, and ii) the second term encourages densities close to the prior. 
 
 Thus the variational objective mirrors the usual balance between likelihood and prior.
 
