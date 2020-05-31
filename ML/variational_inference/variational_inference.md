@@ -11,7 +11,6 @@ $$
 For many models, the integral in the denominator is unavailable in closed form or requires exponential time to compute.
 
 In variational inference, we posit a family of approximate conditional density functions $\mathcal{L}$, and the goal is to find the minimizer $q^*(z|x)$ of the following optimization problem
-
 $$
 \begin{align}
 q^*(z|x) &= \arg\min_{q(z|x)\in\mathcal{L}} \mathrm{KL}(q(z|x)||p(z|x)) \\
