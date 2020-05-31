@@ -1,6 +1,6 @@
 title: YHLee's ML Blog
 logo: /assets/img/YHLee.jpg
 description: Welcome to YHLee's ML blog!
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
