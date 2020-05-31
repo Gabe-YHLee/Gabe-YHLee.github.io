@@ -9,21 +9,17 @@ $$
 For many models, the integral in the denominator is unavailable in closed form or requires exponential time to compute.
 
 In variational inference, we posit a family of approximate conditional density functions $\mathcal{L}$, and the goal is to find the minimizer $q^*(z|x)$ of the following optimization problem
-$$
-\begin{aligned}
+$$\begin{aligned}
 q^*(z|x) &= \arg\min_{q(z|x)\in\mathcal{L}} \mathrm{KL}(q(z|x)||p(z|x))  \\
 &= \arg\min_{q(z|x)\in\mathcal{L}} \mathbb{E}[\log \frac{q(z|x)}{p(z|x)}] \\
 &= \arg\min_{q(z|x)\in\mathcal{L}} \mathbb{E}[\log q(z|x)]-\mathbb{E}[\log p(z,x)]+\log p(x) \\
 &= \arg\min_{q(z|x)\in\mathcal{L}} \mathbb{E}[\log q(z|x)]-\mathbb{E}[\log p(z,x)],
-\end{aligned}
-$$
+\end{aligned}$$
 where all expectations are taken with respect to $q(z|x)$. Note that the above optimization problem is equivalent to maximizing the evidence lower bound (ELBO):
-$$
-\begin{aligned}
+$$\begin{aligned}
     \mathrm{ELBO}(q) &= \mathbb{E}[\log p(x|z)]-\mathrm{KL}(q(z|x)||p(z))\\
     &= \mathbb{E}[\log p(z,x)]-\mathbb{E}[\log q(z|x)].
-\end{aligned}
-$$
+\end{aligned}$$
 
 Maximizing the ELBO has the following interpretations:
 *  The first term $\mathbb{E}[\log p(x|z)]$ encourages $q(z|x)$ to place their mass on configurations of the latent variables that explain the observed data. 
@@ -32,12 +28,10 @@ Maximizing the ELBO has the following interpretations:
 Thus the variational objective mirrors the usual balance between likelihood and prior.
 
 Another property of the ELBO is the lower-boundess:
-$$
-\begin{aligned}
+$$\begin{aligned}
     \log p(x) &= \mathrm{KL}(q(z|x)||p(z|x)) + \mathrm{ELBO}(q) \\
     &\geq \mathrm{ELBO}(q).
-\end{aligned}
-$$
+\end{aligned}$$
 
 This relationship has led to using the variational bound as a model selection criterion for $p(x)$ under the premise that the bound is a good approximation of the marginal likelihood. Though this sometimes works in practice, selecting based on a bound is not justified in theory.
 
