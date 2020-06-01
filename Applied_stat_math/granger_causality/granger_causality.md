@@ -5,6 +5,7 @@ Granger causality is a statistical concept of causality that is based on predict
 Granger defined the causality relationship based on two principles:
 1. The cause happens prior to its effect.
 2. The cause has unique information about the future values of its effect.
+
 Given these two assumptions about causality, Granger proposed to test the following hypothesis for identification of a causal effect of $X$ on $Y$:
 
 $$
