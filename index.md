@@ -12,9 +12,9 @@ My research interest is toward developing geoemtric algorithms that deal with da
 
 ### Publications
 ##### Journal
-+ [__Iterative Medial Axis Transform__]()
-Yonghyeon Lee, Jonghyuk Baek, Frank C. Park, Youngmin Kim
-[*Computer Graphics Forum*](https://onlinelibrary.wiley.com/journal/14678659)  (under revision)
++ [__Iterative Medial Axis Transform__]()  
+Yonghyeon Lee, Jonghyuk Baek, Frank C. Park, Youngmin Kim  
+[*Computer Graphics Forum*](https://onlinelibrary.wiley.com/journal/14678659) (under revision)  
 [github](https://github.com/Gabe-YHLee/IterativeMAT), [PDF]()
 
 ##### Conference
