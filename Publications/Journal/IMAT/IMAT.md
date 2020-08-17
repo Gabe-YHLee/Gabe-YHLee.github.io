@@ -1,3 +1,5 @@
+## Iterative Medial Axis Transform (IMAT)
+
 ![teaser](./image/teaser.PNG)
 
 ### TL; DR
