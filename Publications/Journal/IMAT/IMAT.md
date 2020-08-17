@@ -1,4 +1,6 @@
-## Iterative Medial Axis Transform (IMAT)
+---
+layout: default
+---
 
 ![teaser](./image/teaser.PNG)
 
