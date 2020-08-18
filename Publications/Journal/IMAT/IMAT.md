@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ![teaser](./image/teaser.PNG)
 
 ### TL; DR
