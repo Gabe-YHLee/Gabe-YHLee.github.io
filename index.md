@@ -28,7 +28,7 @@ Daehyun Kim, Yonghyeon Lee, and Chan Gook Park
 [*International Journal of Control, Automation and Systems*](https://www.springer.com/journal/12555/) (accept) 
 [PDF]()
 
-+ [__IMAT: The Iterative Medial Axis Transform__](./Publications/Journal/IMAT/imat.md)  
++ [__IMAT: The Iterative Medial Axis Transform__](./ML/normalizing_flow/normalizing_flow.md)  
 Yonghyeon Lee, Jonghyuk Baek, Frank C. Park, Youngmin Kim  
 [*Computer Graphics Forum*](https://onlinelibrary.wiley.com/journal/14678659) (under revision)  
 [code](https://github.com/Gabe-YHLee/IterativeMAT), [PDF]()
