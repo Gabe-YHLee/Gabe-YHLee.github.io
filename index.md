@@ -10,6 +10,14 @@ My research interest is toward developing geometric algorithms that deal with da
 
 ---
 
+### Education
++ __2018 - Present.__ Ph.D. student at Robotics Laboratory, Dept. of Mechanical Engineering, Seoul National University
+    - Advisor: Prof. Frank Chongwoo Park
++ __2018.__ B.S. degree, major in Mechanical Engineering, minor in Physics, Seoul National University  
+    - Graduated cum laude
++ __2013.__ Gyeonggibuk Science High School
+---
+
 ### Publications
 
 #### [__Journal__](./Journal_Publications.md)
