@@ -4,18 +4,19 @@ layout: default
 
 ### Research
 
-I am a PhD student in Robotics laboratory at the Seoul National University (SNU), and my advisor is [Frank C. Park](https://scholar.google.com/citations?user=u-h3PJIAAAAJ&hl=ko&oi=ao). I have received B.S. in Mechanical Engineering and Physics at SNU. 
+I am a PhD student in Robotics laboratory at the Seoul National University (SNU), and my advisor is [Frank C. Park](https://scholar.google.com/citations?user=u-h3PJIAAAAJ&hl=ko&oi=ao).
 
 My research interest is toward developing geometric algorithms that deal with data that are non-Euclidean or has the underlying low-dimensional manifold structure, applying tools from differential topology/geoemtry. 
 
 ---
 
-### Education
+### Educations
 + __2018 - Present.__ Ph.D. student at Robotics Laboratory, Dept. of Mechanical Engineering, Seoul National University
     - Advisor: Prof. Frank Chongwoo Park
 + __2018.__ B.S. degree, major in Mechanical Engineering, minor in Physics, Seoul National University  
     - Graduated cum laude
 + __2013.__ Gyeonggibuk Science High School
+  
 ---
 
 ### Publications
@@ -34,6 +35,12 @@ Daehyun Kim, Yonghyeon Lee, and Chan Gook Park
 
 
 #### Conference 
+
+#### Works in progress
++ __Isometric Representation Learning Using Deep Generative Models__  
+Yonghyeon Lee, Sangwoong yoon, and Frank C. Park, Fellow, IEEE  
+(ICML 2021 : International Conference on Machine Learning)  
+(under revision)
 
 <!-- #### In progress
 + __One-shot Harmonic Stable Dynamical System Learning for Riemannian Configuration Space__  
