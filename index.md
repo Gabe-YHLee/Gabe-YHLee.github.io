@@ -23,7 +23,7 @@ Yonghyeon Lee, Seungyeon Kim, Bryan D Lee, and Frank C Park
 
 + __IMAT: The Iterative Medial Axis Transform__
 Yonghyeon Lee, Jonghyuk Baek, Frank C. Park, Youngmin Kim  
-(Computer Graphics Forum 08 April 2021),
+(Computer Graphics Forum 08 April 2021)
 [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14266)
 
 + __Context Awareness and Step Length Estimation by Shape Distance and H-Features__  
