@@ -35,26 +35,25 @@ Daehyun Kim, __Yonghyeon Lee__, and Chan Gook Park
 
 
 #### Conference 
-
-#### Works in progress
-+ __DSQNet: A Deformable Model-Based Supervised Learning Algorithm for Grasping Unknown Occluded Objects__  
-Seungyeon Kim, Taegyun Ahn, __Yonghyeon Lee__, Jihwan Kim, Michael Yu Wang, and Frank C. Park, Fellow, IEEE  
-(in progress)
-
 + __Neighborhood Reconstructing Autoencoder__  
 __Yonghyeon Lee__, Hyukjun Kwon, and Frank C. Park, Fellow, IEEE  
-(Neurips 2021 : Conference on Neural Information Processing Systems)  
+(Neurips 2021 : Conference on Neural Information Processing Systems) [Link]() [Web]() [Code]()  
+
+
+<!-- #### Works in progress
++ __DSQNet: A Deformable Model-Based Supervised Learning Algorithm for Grasping Unknown Occluded Objects__  
+Seungyeon Kim, Taegyun Ahn, __Yonghyeon Lee__, Jihwan Kim, Michael Yu Wang, and Frank C. Park, Fellow, IEEE  
 (udner review)
 
-+ __Invariant Isometric Representation Learning Using Deep Generative Models__  
++ __Regularized Autoencoder for Isometric Representation Learning__  
 __Yonghyeon Lee__, Sangwoong Yoon, Min-jin Son, and Frank C. Park, Fellow, IEEE  
 (ICLR 2022 : International Conference on Learning Representations)  
-(in progress)
+(udner review)
 
-+ __Information Riemannian Geometric Framework of Point Cloud Deep Generative Models__  
++ __Statistical Manifold Framework__  
 __Yonghyeon Lee__, Seungyeon Kim, and Frank C. Park, Fellow, IEEE  
 (ICLR 2022 : International Conference on Learning Representations)  
-(in progress)
+(udner review) -->
 
 <!-- #### In progress
 + __One-shot Harmonic Stable Dynamical System Learning for Riemannian Configuration Space__  
