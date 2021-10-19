@@ -1,3 +1,5 @@
 TO BE UPDATED
 
-[code](https://github.com/Gabe-YHLee/NRAE-public)
+Video : [video]()
+
+Code : [code](https://github.com/Gabe-YHLee/NRAE-public)

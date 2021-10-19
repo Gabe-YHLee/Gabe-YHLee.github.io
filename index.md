@@ -21,7 +21,7 @@ My research interest is toward developing geometric algorithms that deal with da
 
 ### Publications
 
-#### [__Journal__]
+#### Journal
 
 + __IMAT: The Iterative Medial Axis Transform__  
 __Yonghyeon Lee__, Jonghyuk Baek, Youngmin Kim, Frank C. Park
@@ -35,9 +35,9 @@ Daehyun Kim, __Yonghyeon Lee__, and Chan Gook Park
 
 
 #### Conference 
-+ __Neighborhood Reconstructing Autoencoder__  
++ __Neighborhood Reconstructing Autoencoders__  
 __Yonghyeon Lee__, Hyukjun Kwon, and Frank C. Park, Fellow, IEEE  
-(Neurips 2021 : Conference on Neural Information Processing Systems) [Link]() [Web](NRAE/main.md) [Code](https://github.com/Gabe-YHLee/NRAE-public)  
+(Neurips 2021 : Conference on Neural Information Processing Systems) [Link]() [Web](NRAE/main.md) [Video]() [Code](https://github.com/Gabe-YHLee/NRAE-public)  
 
 
 <!-- #### Works in progress
