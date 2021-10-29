@@ -37,7 +37,7 @@ Daehyun Kim, __Yonghyeon Lee__, and Chan Gook Park
 #### Conference 
 + __Neighborhood Reconstructing Autoencoders__  
 __Yonghyeon Lee__, Hyukjun Kwon, and Frank C. Park, Fellow, IEEE  
-(Neurips 2021 : Conference on Neural Information Processing Systems) [Link]() [Web](NRAE/main.md) [Video]() [Code](https://github.com/Gabe-YHLee/NRAE-public)  
+(Neurips 2021 : Conference on Neural Information Processing Systems) [Link]() [Video]() [Slides](https://github.com/Gabe-YHLee/NRAE-public/blob/main/doc/NRAE_talk.pdf) [Poster]() [OpenReview]() [Code](https://github.com/Gabe-YHLee/NRAE-public)  
 
 
 <!-- #### Works in progress
