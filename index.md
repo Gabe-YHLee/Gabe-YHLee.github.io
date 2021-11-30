@@ -25,19 +25,20 @@ My research interest is toward developing geometric algorithms that deal with da
 
 + __IMAT: The Iterative Medial Axis Transform__  
 __Yonghyeon Lee__, Jonghyuk Baek, Youngmin Kim, Frank C. Park
-(Computer Graphics Forum 08 April 2021)
+*(Computer Graphics Forum 08 April 2021)* 
 [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14266)
 
 + __Context Awareness and Step Length Estimation by Shape Distance and H-Features__  
 Daehyun Kim, __Yonghyeon Lee__, and Chan Gook Park  
-(International Journal of Control, Automation and Systems 17 December 2020)
+*(International Journal of Control, Automation and Systems 17 December 2020)* 
 [Link](https://link.springer.com/article/10.1007/s12555-019-0725-x)
 
 
 #### Conference 
 + __Neighborhood Reconstructing Autoencoders__  
 __Yonghyeon Lee__, Hyukjun Kwon, and Frank C. Park, Fellow, IEEE  
-(Neurips 2021 : Conference on Neural Information Processing Systems) [Link](https://papers.nips.cc/paper/2021/hash/05311655a15b75fab86956663e1819cd-Abstract.html) [Video]() [Slides](https://drive.google.com/file/d/1zpr_ippcoU8kdsOSQJmrphVKOnEYLFzk/view?usp=sharing) [Poster](https://drive.google.com/file/d/1_tm-jWh5EzHkxBECtlgaifVR-aZGXFpH/view?usp=sharing) [OpenReview](https://openreview.net/forum?id=_kaH2bAI3O) [Code](https://github.com/Gabe-YHLee/NRAE-public)  
+*(Neurips 2021 : Conference on Neural Information Processing Systems)* 
+[Link](https://papers.nips.cc/paper/2021/hash/05311655a15b75fab86956663e1819cd-Abstract.html) [Video]() [Slides](https://drive.google.com/file/d/1zpr_ippcoU8kdsOSQJmrphVKOnEYLFzk/view?usp=sharing) [Poster](https://drive.google.com/file/d/1_tm-jWh5EzHkxBECtlgaifVR-aZGXFpH/view?usp=sharing) [OpenReview](https://openreview.net/forum?id=_kaH2bAI3O) [Code](https://github.com/Gabe-YHLee/NRAE-public)  
 
 
 <!-- #### Works in progress
