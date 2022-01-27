@@ -21,6 +21,18 @@ My research interest is toward developing geometric algorithms that deal with da
 
 ### Publications
 
+#### Conference 
++ __Regularized Autoencoders for Isometric Representation Learning__  
+__Yonghyeon Lee__, Sangwoong Yoon, Minjun Son, and Frank C. Park, Fellow, IEEE  
+*(ICLR 2022 : International Conference on Learning Representation)* 
+[OpenReview](https://openreview.net/forum?id=mQxt8l7JL04) [Code](https://github.com/Gabe-YHLee/IRVAE-public)  
+
++ __Neighborhood Reconstructing Autoencoders__  
+__Yonghyeon Lee__, Hyukjun Kwon, and Frank C. Park, Fellow, IEEE  
+*(Neurips 2021 : Conference on Neural Information Processing Systems)* 
+[Link](https://papers.nips.cc/paper/2021/hash/05311655a15b75fab86956663e1819cd-Abstract.html) [Video](https://www.youtube.com/watch?v=TlmEZY98ElU) [Slides](https://drive.google.com/file/d/1zpr_ippcoU8kdsOSQJmrphVKOnEYLFzk/view?usp=sharing) [Poster](https://drive.google.com/file/d/1_tm-jWh5EzHkxBECtlgaifVR-aZGXFpH/view?usp=sharing) [OpenReview](https://openreview.net/forum?id=_kaH2bAI3O) [Code](https://github.com/Gabe-YHLee/NRAE-public)  
+
+
 #### Journal
 
 + __IMAT: The Iterative Medial Axis Transform__  
@@ -33,12 +45,6 @@ Daehyun Kim, __Yonghyeon Lee__, and Chan Gook Park
 *(International Journal of Control, Automation and Systems 17 December 2020)* 
 [Link](https://link.springer.com/article/10.1007/s12555-019-0725-x)
 
-
-#### Conference 
-+ __Neighborhood Reconstructing Autoencoders__  
-__Yonghyeon Lee__, Hyukjun Kwon, and Frank C. Park, Fellow, IEEE  
-*(Neurips 2021 : Conference on Neural Information Processing Systems)* 
-[Link](https://papers.nips.cc/paper/2021/hash/05311655a15b75fab86956663e1819cd-Abstract.html) [Video](https://www.youtube.com/watch?v=TlmEZY98ElU) [Slides](https://drive.google.com/file/d/1zpr_ippcoU8kdsOSQJmrphVKOnEYLFzk/view?usp=sharing) [Poster](https://drive.google.com/file/d/1_tm-jWh5EzHkxBECtlgaifVR-aZGXFpH/view?usp=sharing) [OpenReview](https://openreview.net/forum?id=_kaH2bAI3O) [Code](https://github.com/Gabe-YHLee/NRAE-public)  
 
 
 <!-- #### Works in progress
