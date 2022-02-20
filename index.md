@@ -89,5 +89,6 @@ Yonghyeon Lee, Sangwoong yoon, and Frank C. Park, Fellow, IEEE
 
 ### Contact
 ##### Email
-yhlee@robotics.snu.ac.kr
+yhlee.gabe@gmail.com  
+yhlee@robotics.snu.ac.kr (temporary not available)
 
