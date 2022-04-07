@@ -6,7 +6,7 @@ layout: default
 
 I am a PhD student in Robotics laboratory at the Seoul National University (SNU), and my advisor is [Frank C. Park](https://scholar.google.com/citations?user=u-h3PJIAAAAJ&hl=ko&oi=ao).
 
-My research interest is toward developing geometric algorithms that deal with data that are non-Euclidean or has the underlying low-dimensional manifold structure, applying tools from differential topology/geoemtry. 
+Research Interest: Geometric Deep Learning, Machine Learning, Robot Learning
 
 ---
 
@@ -22,27 +22,27 @@ My research interest is toward developing geometric algorithms that deal with da
 ### Publications
 
 #### Conference 
-+ __Regularized Autoencoders for Isometric Representation Learning__  
-__Yonghyeon Lee__, Sangwoong Yoon, Minjun Son, and Frank C. Park, Fellow, IEEE  
-*(ICLR 2022 : International Conference on Learning Representation)* 
-[OpenReview](https://openreview.net/forum?id=mQxt8l7JL04) [Code](https://github.com/Gabe-YHLee/IRVAE-public)  
++ *Regularized Autoencoders for Isometric Representation Learning*  
+*(ICLR 2022 : International Conference on Learning Representation)*   
+__Yonghyeon Lee__, Sangwoong Yoon, Minjun Son, and Frank C. Park  
+[Slides](https://drive.google.com/file/d/1BUaGmK5rUNhWAPOVQ7BvlC3WpKsFM9-z/view?usp=sharing) [Poster](https://drive.google.com/file/d/1Zh3QlURKBN5IV8Rrkjva87-D1567g4Hi/view?usp=sharing) [OpenReview](https://openreview.net/forum?id=mQxt8l7JL04) [Code](https://github.com/Gabe-YHLee/IRVAE-public)  
 
-+ __Neighborhood Reconstructing Autoencoders__  
-__Yonghyeon Lee__, Hyukjun Kwon, and Frank C. Park, Fellow, IEEE  
++ *Neighborhood Reconstructing Autoencoders*  
 *(Neurips 2021 : Conference on Neural Information Processing Systems)* 
-[Link](https://papers.nips.cc/paper/2021/hash/05311655a15b75fab86956663e1819cd-Abstract.html) [Video](https://www.youtube.com/watch?v=TlmEZY98ElU) [Slides](https://drive.google.com/file/d/1zpr_ippcoU8kdsOSQJmrphVKOnEYLFzk/view?usp=sharing) [Poster](https://drive.google.com/file/d/1_tm-jWh5EzHkxBECtlgaifVR-aZGXFpH/view?usp=sharing) [OpenReview](https://openreview.net/forum?id=_kaH2bAI3O) [Code](https://github.com/Gabe-YHLee/NRAE-public)  
+__Yonghyeon Lee__, Hyukjun Kwon, and Frank C. Park  
+[Link](https://papers.nips.cc/paper/2021/hash/05311655a15b75fab86956663e1819cd-Abstract.html) [Video](https://www.youtube.com/watch?v=TlmEZY98ElU) [Slides](https://drive.google.com/file/d/1zpr_ippcoU8kdsOSQJmrphVKOnEYLFzk/view?usp=sharing) [Poster](https://drivegoogle.com/file/d/1_tm-jWh5EzHkxBECtlgaifVR-aZGXFpH/view?usp=sharing) [OpenReview](https://openreview.net/forum?id=_kaH2bAI3O) [Code](https://github.com/Gabe-YHLee/NRAE-public)  
 
 
 #### Journal
 
-+ __IMAT: The Iterative Medial Axis Transform__  
++ *IMAT: The Iterative Medial Axis Transform*  
+*(Computer Graphics Forum 08 April 2021)*   
 __Yonghyeon Lee__, Jonghyuk Baek, Youngmin Kim, Frank C. Park
-*(Computer Graphics Forum 08 April 2021)* 
 [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14266)
 
-+ __Context Awareness and Step Length Estimation by Shape Distance and H-Features__  
-Daehyun Kim, __Yonghyeon Lee__, and Chan Gook Park  
++ *Context Awareness and Step Length Estimation by Shape Distance and H-Features* 
 *(International Journal of Control, Automation and Systems 17 December 2020)* 
+Daehyun Kim, __Yonghyeon Lee__, and Chan Gook Park  
 [Link](https://link.springer.com/article/10.1007/s12555-019-0725-x)
 
 
@@ -90,5 +90,5 @@ Yonghyeon Lee, Sangwoong yoon, and Frank C. Park, Fellow, IEEE
 ### Contact
 ##### Email
 yhlee.gabe@gmail.com  
-yhlee@robotics.snu.ac.kr (temporary not available)
+yhlee@robotics.snu.ac.kr
 
