@@ -40,8 +40,8 @@ __Yonghyeon Lee__, Hyukjun Kwon, and Frank C. Park
 __Yonghyeon Lee__, Jonghyuk Baek, Youngmin Kim, Frank C. Park
 [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14266)
 
-+ *Context Awareness and Step Length Estimation by Shape Distance and H-Features* 
-*(International Journal of Control, Automation and Systems 17 December 2020)* 
++ *Context Awareness and Step Length Estimation by Shape Distance and H-Features*  
+*(International Journal of Control, Automation and Systems 17 December 2020)*  
 Daehyun Kim, __Yonghyeon Lee__, and Chan Gook Park  
 [Link](https://link.springer.com/article/10.1007/s12555-019-0725-x)
 
