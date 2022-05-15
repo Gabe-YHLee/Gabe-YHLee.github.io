@@ -29,7 +29,7 @@ __Yonghyeon Lee*__, Seungyeon Kim*, Jinwon Choi, and Frank C. Park ( * : equal c
 + *Regularized Autoencoders for Isometric Representation Learning*  
 *(ICLR 2022 : International Conference on Learning Representation)*   
 __Yonghyeon Lee__, Sangwoong Yoon, Minjun Son, and Frank C. Park  
-[Slides](https://drive.google.com/file/d/1BUaGmK5rUNhWAPOVQ7BvlC3WpKsFM9-z/view?usp=sharing) [Poster](https://drive.google.com/file/d/1Zh3QlURKBN5IV8Rrkjva87-D1567g4Hi/view?usp=sharing) [OpenReview](https://openreview.net/forum?id=mQxt8l7JL04) [Code](https://github.com/Gabe-YHLee/IRVAE-public)  
+[Video](https://youtu.be/5bxwtsC6bIE) [Slides](https://drive.google.com/file/d/1BUaGmK5rUNhWAPOVQ7BvlC3WpKsFM9-z/view?usp=sharing) [Poster](https://drive.google.com/file/d/1Zh3QlURKBN5IV8Rrkjva87-D1567g4Hi/view?usp=sharing) [OpenReview](https://openreview.net/forum?id=mQxt8l7JL04) [Code](https://github.com/Gabe-YHLee/IRVAE-public)  
 
 + *Neighborhood Reconstructing Autoencoders*  
 *(Neurips 2021 : Conference on Neural Information Processing Systems)* 
