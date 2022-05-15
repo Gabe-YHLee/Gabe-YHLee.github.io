@@ -24,7 +24,7 @@ Research Interest: Geometric Deep Learning, Machine Learning, Robot Learning
 #### Conference 
 + *A Statistical Manifold Framework for Point Cloud Data*  
 *(ICML 2022 : International Conference on Machine Learning)*   
-__Yonghyeon Lee*__, Seungyeon Kim*, Jinwon Choi, and Frank C. Park ( * : equal contribution )  
+__Yonghyeon Lee *__, Seungyeon Kim *, Jinwon Choi, and Frank C. Park ( * : equal contribution )  
 
 + *Regularized Autoencoders for Isometric Representation Learning*  
 *(ICLR 2022 : International Conference on Learning Representation)*   
