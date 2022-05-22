@@ -2,7 +2,11 @@
 layout: default
 ---
 
-### Research
+My github web-page is now terminated. Instaed, I am currently using the following google website:
+
+https://sites.google.com/view/gabe-yhlee/
+
+<!-- ### Research
 
 I am a PhD student in Robotics laboratory at the Seoul National University (SNU), and my advisor is [Frank C. Park](https://scholar.google.com/citations?user=u-h3PJIAAAAJ&hl=ko&oi=ao).
 
@@ -47,7 +51,7 @@ __Yonghyeon Lee__, Jonghyuk Baek, Youngmin Kim, Frank C. Park
 + *Context Awareness and Step Length Estimation by Shape Distance and H-Features*  
 *(International Journal of Control, Automation and Systems 17 December 2020)*  
 Daehyun Kim, __Yonghyeon Lee__, and Chan Gook Park  
-[Link](https://link.springer.com/article/10.1007/s12555-019-0725-x)
+[Link](https://link.springer.com/article/10.1007/s12555-019-0725-x) -->
 
 <!-- #### Works in progress
 + __DSQNet: A Deformable Model-Based Supervised Learning Algorithm for Grasping Unknown Occluded Objects__  
@@ -82,15 +86,15 @@ Wooyoung Kim, Yonghyeon Lee, and Frank C. Park, Fellow, IEEE
 Yonghyeon Lee, Sangwoong yoon, and Frank C. Park, Fellow, IEEE  
 (ICML 2021 : International Conference on Machine Learning)  
 (under revision)  -->
-
+<!-- 
 ---
 
 ### CV
 
----
+--- -->
 
 ### Contact
-##### Email
+<!-- ##### Email -->
 yhlee.gabe@gmail.com  
 yhlee@robotics.snu.ac.kr
 
