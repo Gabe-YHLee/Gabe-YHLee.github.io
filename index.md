@@ -2,9 +2,7 @@
 layout: default
 ---
 
-My github web-page is now terminated. Instaed, please visit the following google website:
-
-[https://sites.google.com/view/gabe-yhlee/](https://sites.google.com/view/gabe-yhlee/)
+My github web-page is now terminated. Instaed, please visit [gabe-yhlee.com](https://www.gabe-yhlee.com/).
 
 <!-- ### Research
 
